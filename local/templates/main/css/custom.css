@@ -2,12 +2,6 @@
     height: 50px;
 }
 
-/* .auth {
-    margin-left: auto;
-    width: max-content;
-    margin-right: 10px;
-} */
-
 .auth {
     margin-bottom: 30px;
 }
@@ -28,11 +22,6 @@
 .bx-system-auth-form > form > table > tbody > tr:nth-child(1) > td {
     line-height: 27px;
 }
-
-
-/* .bx-system-auth-form > form > table > tbody > tr:nth-child(1) > td > a {
-    display: none;
-} */
 
 .bx-system-auth-form > form > table > tbody > tr:nth-child(2) > td > input[type=submit]:last-child {
     width: 150px;

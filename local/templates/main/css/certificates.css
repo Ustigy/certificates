@@ -2,7 +2,6 @@
     display: flex;
     justify-content: space-around;
     align-items: center;
-    /* margin-bottom: 30px; */
 }
 
 .certificates_add label {
@@ -29,7 +28,6 @@
     border-radius: 0;
     outline: none;
     box-shadow: none;
-    /* margin-top: 10px; */
 }
 
 .certificates_add_btn:hover {

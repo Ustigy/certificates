@@ -69,24 +69,3 @@
         </footer><!--/.contact-->
 		<!--contact end-->
 
-
-
-		<!-- Include all js compiled plugins (below), or include individual files as needed -->
-
-		<!--<script src="assets/js/jquery.js"></script>
-		
-		<!-- popper js -->
-		<!--<script src="assets/js/popper.min.js"></script>
-		
-		<!--bootstrap.min.js-->
-        <!--<script src="assets/js/bootstrap.min.js"></script>
-
-		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.min.js"></script>
-
-        <!--Custom JS-->
-        <!--<script src="assets/js/custom.js"></script>
-
-        
-    </body>
-	
-</html>
